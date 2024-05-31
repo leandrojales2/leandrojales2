@@ -19,6 +19,18 @@ Atualmente estou desenvolvendo uma aplicação full stack usando React.js, Node.
 
 -----
 
+### Cursos na área de Desenvolvimento Web
+
+| Cursos         |  Certificados  |
+| -------------- | -------------- |
+| Formação HTML Web Developer | [Cerficado](https://www.dio.me/certificate/D18F7FB2/share)|
+| Formação CSS Web Developer | [Cerficado](https://www.dio.me/certificate/RFABR9PL/share) |
+| Pré-processadores CSS: Explorando o SASS na Prática | [Cerficado](https://www.dio.me/certificate/TE0KIVSA/share) |
+| Formação Python Developer | Em Andamento |
+| Formação JavaScript Developer| Em Andamento |
+| Formação React Developer| Em Andamento |
+
+-----
 ### Redes Sociais
 
 <p align="center" >
