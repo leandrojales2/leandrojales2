@@ -17,6 +17,7 @@ Meu interesse em migrar para a área de desenvolvimento Front End e Full Stack �
 
 Atualmente estou desenvolvendo uma aplicação full stack usando React.js, Node.js, Python e a biblioteca Leaflet.js para criar uma plataforma de mapeamento colaborativo para eventos ao ar livre. Nele, os organizadores podem criar mapas interativos destacando áreas como os seus estabelecimentos. Os usuários podem contribuir com avaliações e comentários, proporcionando uma experiência mais envolvente e ajudando os organizadores a melhorarem futuros eventos. Essa plataforma única pode gerar receita por meio de parcerias com organizadores, publicidade e vendas.
 
+-----
 
 ### Redes Sociais
 
@@ -25,6 +26,8 @@ Atualmente estou desenvolvendo uma aplicação full stack usando React.js, Node.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100px">
     </a>
 </p>
+
+------
 
 ### Linguagens em estudo até o momento
 <br>
@@ -37,6 +40,7 @@ Atualmente estou desenvolvendo uma aplicação full stack usando React.js, Node.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100px">
 </p>
 
+------
 
 ### Stats
 <p align="center" >
