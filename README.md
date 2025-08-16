@@ -25,7 +25,7 @@ Desenvolvedor apaixonado por criar soluções tecnológicas inovadoras. Experiê
 
 ## 🔥 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrojales2&repo=spring-boot-java&theme=dark)](https://github.com/leandrojales2/spring-boot-java)
+[![Readme Card](https://leandrojales2.github.io/portifolio-profissional/)](https://github.com/leandrojales2/portifolio-profissional)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrojales2&repo=python-api-rest&theme=dark)](https://github.com/leandrojales2/python-api-rest)
 
 ## 📫 Como me encontrar
