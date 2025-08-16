@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Leandro Jales!
 
-**Desenvolvedor Full Stack | Python | Java | React**
+**Desenvolvedor Full Stack | Python | JavaScript | React**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcjales/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desenvolvedorjales@yahoo.com)
 
 ## 🚀 Sobre Mim
 
@@ -29,6 +29,6 @@ Desenvolvedor apaixonado por criar soluções tecnológicas inovadoras. Experiê
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [seu perfil](https://www.linkedin.com/in/seu-linkedin/)
-- Email: seuemail@gmail.com
-- Portfólio: [seu site pessoal](https://seusite.com)
+- LinkedIn: [seu perfil](https://www.linkedin.com/in/lcjales/)
+- Email: desenvolvedorjales@yahoo.com
+- Portfólio: [seu site pessoal](https://leandrojales2.github.io/portifolio-profissional/))
