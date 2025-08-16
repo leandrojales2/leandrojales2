@@ -1,62 +1,34 @@
-<center><h2>Sejam bem vindos ao Meu Mundo!</h2></center>
+# 👋 Olá, eu sou Leandro Jales!
 
-<br>
+**Desenvolvedor Full Stack | Python | Java | React**
 
-<p align="center">
-    <a href="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/js_.gif">
-        <img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/js_.gif">
-    </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
--------------
-### Sobre mim
+## 🚀 Sobre Mim
 
-Possuo uma sólida experiência em análise de dados e comércio eletrônico, atualmente atuo como Coordenador SIG e E-commerce na GRANDE RIO, onde sou responsável pela elaboração de relatórios e dashboards, análise de bases de dados do CRM e gerenciamento do site de e-commerce da empresa. Além disso, minha trajetória inclui passagens como Coordenador de Administração de Vendas e Custos na TRANSPORTE RORAIMA e como Coordenador de Logística na REINO ANTIGO, onde desenvolvi sistemas de gestão e análise de dados, além de liderar equipes e projetos estratégicos.
+Desenvolvedor apaixonado por criar soluções tecnológicas inovadoras. Experiência em desenvolvimento full-stack com foco em Python, Java e React. Sempre buscando aprender novas tecnologias e compartilhar conhecimento.
 
-Meu interesse em migrar para a área de desenvolvimento Front End e Full Stack é impulsionado pela paixão pela tecnologia e pelo desejo de expandir meu conjunto de habilidades. Recentemente, tenho me dedicado a cursos e capacitações na área de desenvolvimento web.
+## 🛠️ Tecnologias e Ferramentas
 
-Atualmente estou desenvolvendo uma aplicação full stack usando React.js, Node.js, Python e a biblioteca Leaflet.js para criar uma plataforma de mapeamento colaborativo para eventos ao ar livre. Nele, os organizadores podem criar mapas interativos destacando áreas como os seus estabelecimentos. Os usuários podem contribuir com avaliações e comentários, proporcionando uma experiência mais envolvente e ajudando os organizadores a melhorarem futuros eventos. Essa plataforma única pode gerar receita por meio de parcerias com organizadores, publicidade e vendas.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
------
+## 📈 Estatísticas do GitHub
 
-### Cursos na área de Desenvolvimento Web
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrojales2&show_icons=true&theme=dark)
 
-| Cursos         |  Certificados  |
-| -------------- | -------------- |
-| Formação HTML Web Developer | [Cerficado](https://www.dio.me/certificate/D18F7FB2/share)|
-| Formação CSS Web Developer | [Cerficado](https://www.dio.me/certificate/RFABR9PL/share) |
-| Pré-processadores CSS: Explorando o SASS na Prática | [Cerficado](https://www.dio.me/certificate/TE0KIVSA/share) |
-| Formação Python Developer | Em Andamento |
-| Formação JavaScript Developer| Em Andamento |
-| Formação React Developer| Em Andamento |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrojales2&layout=compact&theme=dark)
 
------
-### Redes Sociais
+## 🔥 Projetos em Destaque
 
-<p align="center" >
-    <a href="https://www.linkedin.com/in/lcjales/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="100px">
-    </a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrojales2&repo=spring-boot-java&theme=dark)](https://github.com/leandrojales2/spring-boot-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrojales2&repo=python-api-rest&theme=dark)](https://github.com/leandrojales2/python-api-rest)
 
-------
+## 📫 Como me encontrar
 
-### Linguagens em estudo até o momento
-<br>
-<p align="center" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="100px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100px">
-</p>
-
-------
-
-### Stats
-<p align="center" >
-        <img src="https://github-readme-stats.vercel.app/api?username=leandrojales2&show_icons=true&theme=dark" width="340px">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrojales2&layout=compact&theme=dark" width="240px">
-</p>
-
+- LinkedIn: [seu perfil](https://www.linkedin.com/in/seu-linkedin/)
+- Email: seuemail@gmail.com
+- Portfólio: [seu site pessoal](https://seusite.com)
